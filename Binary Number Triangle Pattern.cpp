@@ -1,4 +1,4 @@
-//binary number triangle
+
 #include<iostream>
 using namespace std;
 void diamond(int n){
