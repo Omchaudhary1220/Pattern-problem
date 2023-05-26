@@ -1,4 +1,4 @@
-//number crown
+//Number crown
 #include<iostream>
 using namespace std;
 void diamond(int n){
